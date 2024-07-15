@@ -14,7 +14,7 @@
   <project path="system/core" name="AOSPA-Plus/android_system_core" remote="github" revision="uvite" />
 
   <remove-project name="AOSPA/android_vendor_aospa" />
-  <project path="vendor/aospa" name="AOSPA-Plus/android_vendor_aospa" remote="github" revision="uvite" >
+  <project path="vendor/aospa" name="AOSPA-Plus/android_vendor_aospa" remote="github" revision="testing" >
     <linkfile src="build.sh" dest="rom-build.sh" />
   </project>
 
